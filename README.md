@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Tobils/Tobils** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -7,7 +5,6 @@ Here are some ideas to get you started:
 <div align="center">
   <img width="250" src="RESUME-ADE-SUHADA.png" alt="Awesome">
   <br>
-  <h1>Ade Suhada</h1>
 </div>
 
 
