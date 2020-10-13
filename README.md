@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 -->
 <div align="center">
-  <img width="250" src="RESUME-ADE-SUHADA.png" alt="Awesome">
+  <img src="RESUME-ADE-SUHADA.png" alt="Awesome">
   <br>
 </div>
 
