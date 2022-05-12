@@ -7,12 +7,14 @@ Here are some ideas to get you started:
 <div style="text-align:center">
     <h1>Hi there 👋, I'm Tobil</h1>
     <br>
+    <!--
     <img src="https://github-readme-stats.vercel.app/api?username=Tobils&show_icons=true"/>
     <br>
     <div align="center">
       <img src="RESUME-ADE-SUHADA.png" alt="Awesome">
       <br>
     </div>
+    -->
 </div>
 
 
